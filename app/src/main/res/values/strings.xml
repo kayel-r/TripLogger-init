@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TripLogger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_log">Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="trip_title_hint">Enter a title for the trip.</string>
+    <string name="trip_title_label">Title</string>
+    <string name="trip_details_label">Details</string>
+    <string name="date_picker_title">Date of trip:</string>
+    <string name="new_trip">Log</string>"
+</resources>
